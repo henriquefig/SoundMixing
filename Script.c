@@ -1,3 +1,6 @@
+// 2 º Semester 2016
+// Henrique Figueiredo
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
